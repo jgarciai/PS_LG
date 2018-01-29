@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#container1 {
+    min-width: 800px;
+    max-width: 1400px;
+    height: 400px;
+    margin: 0 auto
+}
